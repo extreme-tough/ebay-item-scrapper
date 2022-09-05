@@ -1,0 +1,15 @@
+v1.0  Reading from e-carone.xls
+
+Records found :  18
+
+Collecting data
+Item Name collected : Ford
+
+Item No collected : 350408145679
+
+Collecting data
+Item Name collected : Lexus
+
+Item No collected : 200533511485
+
+Collecting data
